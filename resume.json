@@ -54,7 +54,7 @@
     {
       "skill_name": "AI/AI based",
       "skill_levle": "80",
-      "skill_desc": "agent意图识别项目经验\n基于RAG的FAQ客服项目经验",
+      "skill_desc": "agent意图识别项目经验\n基于RAG的FAQ客服项目经验\nPrompt Engineering",
       "dataIndex": 1,
       "skill_level": 87
     },
@@ -70,7 +70,7 @@
     {
       "project_name": "智能意图识别(Intent-Classify)系统评估与选型",
       "project_role": "",
-      "project_time": "2026-1",
+      "project_time": "2026.1",
       "project_desc": "针对自然语言交互场景中，传统检索对长尾复杂意图理解不足的问题，探索并评测适用于垂直业务线的最优意图识别方案。",
       "project_content": "\n1. 多算法引擎构建：独立构建意图分类测试集，从底层逻辑出发，系统性实现了基于正则表达式、基于 TF-IDF 的机器学习算法、基于 BERT 预训练模型的微调，以及直接调用 LLM API + Prompt Engineering 的四套意图分类引擎。\n2. 选型报告输出：撰写并输出了详实的技术选型分析报告，深刻总结比较了从基于规则到生成式人工智能的四种主流技术路线，得到了一个基本的串联逻辑 -> 优先通过正则匹配处理高频固定指令，不命中时调用 BERT/TF-IDF 进行语义分类，最后对于极难处理或长尾的 Case 才考虑调用大模型（LLM）。",
       "dataIndex": 0
@@ -78,7 +78,7 @@
     {
       "project_name": "企业级RAG架构全链路设计(参考阿里云FAQ)",
       "project_role": "",
-      "project_time": "2026-2",
+      "project_time": "2026.2",
       "project_desc": "参考行业成熟的企业级智能系统架构，从 0 到 1 设计并拆解了基于“意图路由 + 知识库检索”的故障/问答系统全链路方案。",
       "project_content": "\n1. 系统架构规划：从后端与算法的角度，书写了完整的技术方案，讨论了数据库的选取和分类（向量数据库和结构化数据库）、企业级知识库中常见的双环境管理机制的实现、RAG 中 model 的选择（BERT 和 LLM 如何协作）。\n2. RAG 底层链路拆解：深入拆解 RAG 知识库问答底层代码逻辑。利用 Elasticsearch (ES) 构建底层的双路召回存储架构，打通了混合检索（Hybrid Search：基于 BM25 的全文检索 + 基于 Dense Vector 的稠密向量检索）管线；并在后处理阶段接入 Rerank（重排序）模型，显著提升了核心知识片段的 Top-K 召回率与语义匹配精准度."
     },
@@ -92,7 +92,7 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "🪐永远在求索和成长的冒险家\n🎏渴望成为Geek的技术小白\n🔮饱满的热情和高效的执行力"
+    "aboutme_desc": "🪐 永远在求索和成长的冒险家\n🎏 渴望成为Geek的技术宅\n🔮 饱满的热情和高效的执行力"
   },
   "theme": {
     "color": "#2f5785",
