@@ -63,8 +63,8 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Birchove&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birchove&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Langs" />
+  <img src="https://github-readme-stats-xi-ruddy-88.vercel.app/api?username=Birchove&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-xi-ruddy-88.vercel.app/api/top-langs/?username=Birchove&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Langs" />
 </div>
 
 <br>
