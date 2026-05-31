@@ -10,7 +10,7 @@
 
 <!-- 访客与社交链接徽章 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Birchove&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=Birchove&label=Profile%20Views&color=5E81AC&style=flat-square" alt="Visitor Badge" />
   <a href="mailto:zhaoxuanwang666@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -63,14 +63,14 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-xi-ruddy-88.vercel.app/api?username=Birchove&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1" height="166" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-xi-ruddy-88.vercel.app/api/top-langs/?username=Birchove&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1" height="180" alt="Top Langs" />
+  <img src="https://github-readme-stats-xi-ruddy-88.vercel.app/api?username=Birchove&show_icons=true&theme=nord&hide_border=true&count_private=true&cache_seconds=1" height="166" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-xi-ruddy-88.vercel.app/api/top-langs/?username=Birchove&theme=nord&hide_border=true&layout=compact&cache_seconds=1" height="180" alt="Top Langs" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Birchove&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Birchove&theme=arctic&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
