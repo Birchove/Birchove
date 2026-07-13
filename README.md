@@ -24,7 +24,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I’m a **CS Sophomore at SEU (Southeast University)**, currently actively looking for an **internship**.
-- 🔭 My latest project is **[AIWolfGame](https://github.com/Birchove/AIWolfGame)**. Previously, I participated in a GameJam and developed an ink-wash card game called **[Feibai](https://github.com/Birchove/Feibai-GameJam)**.
+- 🔭 My latest project is **[Demo-ChatGPT](https://github.com/Birchove/demo-chatgpt)**. Previously, I participated in a GameJam and developed an ink-wash card game called **[Feibai](https://github.com/Birchove/Feibai-GameJam)**.
 - 🌱 I’m currently diving deep into **AI technologies** and core CS curriculum (**408**).
 - 🎯 Future Goal: I aim to work in **AI-related roles** directly after graduation (not planning on a Master's degree for now).
 - 💬 Let's exchange ideas on: **Python, C++, Basic Algorithms, AI usage tips/experiences, and interesting projects**.
