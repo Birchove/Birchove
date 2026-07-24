@@ -44,6 +44,7 @@
 * 🧠 **[multimodal-rag-api](https://github.com/Birchove/multimodal-rag-api)** <br> An API for multimodal RAG processing and application.
 * 🖖 **[All-AD-Games](https://github.com/Birchove/all-ad-games)** <br> An ad-free, zero-dependency web arcade that recreates the elusive mini-games frequently seen in misleading short video advertisements.
 * 🫆 **[Demo-ChatGPT](https://github.com/Birchove/demo-chatgpt)** <br> A local AI workspace demo integrating streaming chat, PDF RAG, web search, meeting analysis, long-term memory, and PPT generation capabilities.
+* 🪐 **[UkiyoE(浮世微言)](https://github.com/Birchove/UkiyoE)** <br> A modern folk history and anecdote collection documenting contemporary social events, internet culture, and everyday life through the lens of classical Chinese literary sketches.
 
 ---
 
