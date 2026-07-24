@@ -24,7 +24,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I’m a **CS Sophomore at SEU (Southeast University)**, currently actively looking for an **internship**.
-- 🔭 My latest project is **[Demo-ChatGPT](https://github.com/Birchove/demo-chatgpt)**. Previously, I participated in a GameJam and developed an ink-wash card game called **[Feibai](https://github.com/Birchove/Feibai-GameJam)**.
+- 🔭 My latest project is **[All-AD-Games](https://github.com/Birchove/all-ad-games)**. Previously, I participated in a GameJam and developed an ink-wash card game called **[Feibai](https://github.com/Birchove/Feibai-GameJam)**.
 - 🌱 I’m currently diving deep into **AI technologies** and core CS curriculum (**408**).
 - 📜 A bit of a romantic humanist at heart — built **[UkiyoE(浮世微言)](https://github.com/Birchove/UkiyoE)**, a modern-day folk chronicle in the spirit of classics
 - 🎯 Future Goal: I aim to work in **AI-related roles** directly after graduation (not planning on a Master's degree for now).
@@ -42,6 +42,8 @@
 * 🃏 **[Feibai-GameJam](https://github.com/Birchove/Feibai-GameJam)** <br> An ink-wash wuxia roguelike card game developed during AI GameJam.
 * 🔍 **[RAG-ES-Pipeline](https://github.com/Birchove/RAG-ES-Pipeline)** <br> A retrieval-augmented generation pipeline using Elasticsearch.
 * 🧠 **[multimodal-rag-api](https://github.com/Birchove/multimodal-rag-api)** <br> An API for multimodal RAG processing and application.
+* 🖖 **[All-AD-Games](https://github.com/Birchove/all-ad-games)** <br> An ad-free, zero-dependency web arcade that recreates the elusive mini-games frequently seen in misleading short video advertisements.
+* 🫆 **[Demo-ChatGPT](https://github.com/Birchove/demo-chatgpt)** <br> A local AI workspace demo integrating streaming chat, PDF RAG, web search, meeting analysis, long-term memory, and PPT generation capabilities.
 
 ---
 
