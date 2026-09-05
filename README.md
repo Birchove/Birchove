@@ -75,7 +75,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Birchove&theme=arctic&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph-two-xi.vercel.app/graph?username=Birchovetheme=arctic&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
