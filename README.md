@@ -45,7 +45,7 @@
 * 🖖 **[All-AD-Games](https://github.com/Birchove/all-ad-games)** <br> An ad-free, zero-dependency web arcade that recreates the elusive mini-games frequently seen in misleading short video advertisements.
 * 🫆 **[Demo-ChatGPT](https://github.com/Birchove/demo-chatgpt)** <br> A local AI workspace demo integrating streaming chat, PDF RAG, web search, meeting analysis, long-term memory, and PPT generation capabilities.
 * 🪐 **[UkiyoE(浮世微言)](https://github.com/Birchove/UkiyoE)** <br> A modern folk history and anecdote collection documenting contemporary social events, internet culture, and everyday life through the lens of classical Chinese literary sketches.
-* 🦄 **[Rigora - 科研探索导师Agent](https://github.com/Birchove/rigora)** <br> I'll examine the repository to provide an English introduction.**Rigora** is an AI-powered research mentor for computer science. Core concept: stricter, more specific user input yields higher-quality, verifiable system output. Five modular agents conduct structured reasoning on ideas, plans, insights, and experiments through a deterministic Harness framework.
+* 🦄 **[Rigora - 科研探索导师Agent](https://github.com/Birchove/rigora)** <br> **Rigora** is an AI-powered research mentor. Core concept: stricter, more specific user input yields higher-quality, verifiable system output. Five modular agents conduct structured reasoning on ideas, plans, insights, and experiments through a deterministic Harness framework.
 
 ---
 
